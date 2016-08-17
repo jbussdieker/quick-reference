@@ -31,3 +31,7 @@ Server running at http://127.0.0.1:3000/
 ## Packaging
 
 [npm](https://www.npmjs.com) is the package manager
+
+## Task Running
+
+[grunt](http://gruntjs.com) is a task runner

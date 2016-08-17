@@ -4,6 +4,10 @@
 
 `node [options] [v8 options] [script.js | -e "script"] [arguments]`
 
+## Background
+
+Node.js was started by Ryan Dahl. It was supported by Joyent which lead to conflicts and io.js was started but then merged back into Node.js with v4.
+
 ## Hello World
 
 ````javascript
